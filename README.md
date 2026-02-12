@@ -18,3 +18,15 @@ Develop a modern data warehouse using PostgreSQL to consolidate sales data, enab
 * **Integration:** Combine both sources into a single, user-friendly data model designed for analytical queries.
 * **Scope:** Focus on the latest dataset only; historization of data is not required.
 * **Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm an aspiring **Data Engineer** with a deep passion for building robust data pipelines and scalable architectures. My expertise lies at the intersection of **Python, SQL, and Cloud Technologies**, where I focus on transforming raw data into high-quality, actionable datasets. 
+
+I am currently honing my skills in orchestration tools and modern data stack technologies, with the ultimate goal of launching my professional career in the European tech market. I'm driven by the challenge of optimizing data workflows and ensuring data integrity at scale.
